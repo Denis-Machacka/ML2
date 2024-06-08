@@ -7,13 +7,13 @@ This repository contains a Google Colab notebook for classifying chess pieces us
 To use the notebook, follow these steps:
 
 1. **Download the Notebook:**
-   - Click on the `Chess_Piece_Classifier.ipynb` file.
+   - Click on the `ML2_Chess_Piece_Classifier.ipynb` file.
    - Click on the "Download" button to save the notebook to your local machine.
 
 2. **Run on Google Colab:**
    - Open [Google Colab](https://colab.research.google.com/).
    - Click on `File` > `Upload notebook`.
-   - Choose the downloaded `Chess_Piece_Classifier.ipynb` file from your local machine.
+   - Choose the downloaded `ML2_Chess_Piece_Classifier.ipynb` file from your local machine.
    - Run the cells in the notebook sequentially to execute the code.
 
 ## Additional Information
